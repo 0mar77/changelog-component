@@ -11,7 +11,7 @@
 ![Project Preview](./project-pic.png)
 
 ## Usage
-- Click on the link to got to repository
+- Click on the link to got to repository (https://github.com/0mar77/changelog-component)
 - Clone repository to local environment
 - Launch project to view
 
